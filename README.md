@@ -5,3 +5,6 @@ As of November 2023, two new versions have also been uploaded which are `Analysi
 
 As of September 2024, two new versions have also been uploaded which are `Analysis_GPT2_Classifcation_September2024_revised.ipynb` which contains updates on the topic modeling, semantic analysis and geoparsing as well as further 
 analysis here `AdditionalAnalysis_ClimateEducation_September2024_review.ipynb`. 
+
+The text summarisation can be access through colab: https://colab.research.google.com/drive/1voYSsEHuId0dYyE9qrLJxkEVOCoDfS0u?usp=drive_link (courtesy to LangChain for inspiring this analysis). 
+ 
