@@ -3,3 +3,5 @@ Project on the climate education review research. The climate GPT2 model for the
 
 As of November 2023, two new versions have also been uploaded which are `Analysis_GPT2_Classifcation_October2023.ipynb` which contains updates on the topic modeling, semantic analysis and geoparsing. The classifier has also been updated in `cgpt_classification/ClimateGPT_Education_Classifier_October2023.ipynb`
 
+As of September 2024, two new versions have also been uploaded which are `Analysis_GPT2_Classifcation_September2024_revised.ipynb` which contains updates on the topic modeling, semantic analysis and geoparsing as well as further 
+analysis here `AdditionalAnalysis_ClimateEducation_September2024_review.ipynb`. 
